@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sreya Das"
+  name             : "Dr. Sreya Das"
   avatar           : "profile.jpg"
-  bio              : "Research Scholar at SysCon, IITB"
-  location         : "Mumbai"
-  employer         :
+  bio              : "Scientific researcher at Technical University of Munich"
+  location         : "Munich, Germany"
+  employer         : "Prof. Steffen Glaser, Department of Chemistry, Technical University of Munich"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dGEgUZgAAAAJ&hl=en&oi=sra"
-  email            :
+  email            : "sreyadas726@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
