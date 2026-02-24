@@ -1,7 +1,7 @@
 ---
 title: "Mechanism of Chirp Excitation"
 collection: publications
-permalink: /publication/chirpmechanism
+permalink: /publication/chirp-mechanism
 excerpt: 'Broadband excitation, CHORUS, Chirp pulse, Double-refocussing, Composite pulses, Adiabatic pulse '
 date: December, 2021
 venue: 'Journal of Magnetic Resonance'
