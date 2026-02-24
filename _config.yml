@@ -85,7 +85,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Scientific researcher at Technical University of Munich"
   location         : "Munich, Germany"
-  employer         : "Department of Chemistry, Technical University of Munich"
+  employer         : #"Department of Chemistry, Technical University of Munich"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dGEgUZgAAAAJ&hl=en&oi=sra"
   email            : "sreyadas726@gmail.com"
