@@ -8,4 +8,3 @@ url: "https://sites.google.com/view/rsworkshop23/home?authuser=0"
 date: 2023-09-15
 location: "Mumbai, India"
 ---
-

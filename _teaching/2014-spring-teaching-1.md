@@ -1,14 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Indian Intitute of Technology, Bombay, Systems and Control Engineering"
+date: 2018 - 2022
+location: "Mumbai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Courses: 
+Physics and Control
+Quantum Control
+Mathematical Structures of Control
+Solid State Systems
+Signals and Feddback systems
 
 Heading 1
 ======
