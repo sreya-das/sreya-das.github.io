@@ -13,7 +13,7 @@ Physics and Control
 Quantum Control
 Mathematical Structures of Control
 Solid State Systems
-Signals and Feddback systems
+Signals and Feedback systems
 
 Heading 1
 ======
