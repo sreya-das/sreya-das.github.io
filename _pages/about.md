@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sreya Das Academic Profile"
+title: "Sreya Das"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+Helloo
