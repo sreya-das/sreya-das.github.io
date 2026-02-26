@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "QuE-MRT general meeting 2024"
+excerpt: "A group photo with the project partners in the general assembly of QuE-MRT project meet 1<br/><img src='/files/quemri_photo.png'>"
 collection: portfolio
 ---
 
