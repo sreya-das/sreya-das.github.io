@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant"
-collection: teaching
+collection: "teaching"
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Indian Intitute of Technology, Bombay, Systems and Control Engineering"
-date: 2018-01-01
+venue: "Indian Institute of Technology, Bombay, Systems and Control Engineering"
+date: "2018 - 2022"
 location: "Mumbai, India"
 ---
 
