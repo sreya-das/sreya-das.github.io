@@ -14,11 +14,3 @@ Courses:
 - Solid State Systems, Instructor - Prof. Navin Khaneja
 - Signals and Feedback Systems, Instructor - Prof. Navin Khaneja and Prof. PSV Nataraj
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
