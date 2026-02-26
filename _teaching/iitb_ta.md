@@ -2,9 +2,9 @@
 title: "Teaching Assistant"
 collection: "teaching"
 type: "Undergraduate course"
-permalink: /teaching/iitb_ta
+permalink: "/teaching/iitb_ta"
 venue: "Indian Institute of Technology, Bombay, Systems and Control Engineering"
-date: "2018 - 2022"
+teaching_period: "2018-2022"
 location: "Mumbai, India"
 ---
 
