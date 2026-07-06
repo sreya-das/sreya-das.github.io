@@ -4,7 +4,7 @@ collection: talks
 type: "Poster and lightning talk"
 permalink: /talks/grc_poster
 venue: "Gordon Research Conference, 2026"
-date: 2026-6-14-2026-6-19
+date: 2026-6-15
 location: "Southern New Hampshire University, Manchester, New Hampshire, USA"
 
 ---
