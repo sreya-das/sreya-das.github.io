@@ -1,5 +1,5 @@
 ---
-title: "GRC Poster and Lightning Talk"
+title: "State-dependent GRAPE"
 collection: talks
 type: "Poster and lightning talk"
 permalink: /talks/grc_poster
